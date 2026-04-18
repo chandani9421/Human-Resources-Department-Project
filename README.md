@@ -70,6 +70,22 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Here are some visualizations from the project:
 
+<img width="1614" height="1606" alt="Histogram(hist)" src="https://github.com/user-attachments/assets/57965a50-5b08-429e-a331-1276deee37e8" />  
+
+<img width="1397" height="833" alt="boxplot big" src="https://github.com/user-attachments/assets/a6e1182b-fb2d-466f-82ff-03a43a71835a" />
+
+<img width="589" height="432" alt="boxplot" src="https://github.com/user-attachments/assets/5bdee720-d6f5-405d-98a0-41ce3bc11900" />
+
+<img width="2004" height="987" alt="countplot" src="https://github.com/user-attachments/assets/a1e5bd71-33ed-4975-a808-5c52d17f2b9e" />
+
+<img width="1629" height="1748" alt="heatmap" src="https://github.com/user-attachments/assets/f779285f-fa86-4308-9ca1-b0fcbf1c859a" />
+
+<img width="1010" height="602" alt="kdeplot" src="https://github.com/user-attachments/assets/d8adc353-17e1-4e3b-9c91-51b56e9d96e0" />
+
+<img width="1625" height="1603" alt="subplot countplot" src="https://github.com/user-attachments/assets/4e7439f0-3446-4c9d-bd93-09e9047938d9" />
+
+
+
 ### 🛠️ Technologies Used
 
 * Python
