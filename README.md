@@ -12,6 +12,13 @@ This project focuses on analyzing employee data to gain insights into various hu
 ├── Human_Resources_Department_Project.ipynb  # Jupyter Notebook with analysis and findings
 └── README.md                         # Project documentation
 
+```text
+├── Human_Resources_project_png/                 # Visualizations generated during analysis
+├── Human_Resources.csv                          # Dataset containing employee information
+├── Human_Resources_Department_Project.ipynb     # Jupyter Notebook with analysis and findings
+└── README.md                                    # Project documentation
+```
+
 ## 📊 Dataset
 The dataset, `Human_Resources.csv`, includes employee information with features such as:
 * **Employee ID**: Unique identifier for each employee.
