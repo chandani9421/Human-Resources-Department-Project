@@ -1,4 +1,4 @@
-# Human Resources Department Analysis...............
+# Human Resources Department Analysis
 
 ## 📌 Project Overview
 
