@@ -1,6 +1,6 @@
 # Human Resources Department Analysis
 
-## 📌 Project Overview................
+## 📌 Project Overview
 
 This project focuses on analyzing employee data to gain insights into various human resources metrics. The goal is to understand factors affecting employee performance, satisfaction, and retention.
 
